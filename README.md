@@ -8,7 +8,5 @@ The sessions aim to equip students with the skills and confidence to independent
 
 ## HTML Demonstration
 
-After a quick overview on HTML, an example HTML document was produced as a quick example before the deadline of assignment 1 which was about producing the students' very first website using pure HTML.
-
-Demonstration video was provided to enhance the students' understandings.
+After a brief overview of HTML, an example HTML document was created to serve as a quick reference before the Assignment 1 deadline, which required students to build their first website using pure HTML. To further support their understanding, a demonstration video was also provided.
 
