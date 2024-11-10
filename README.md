@@ -10,9 +10,5 @@ The sessions aim to equip students with the skills and confidence to independent
 
 After a quick overview on HTML, an example HTML document was produced as a quick example before the deadline of assignment 1 which was about producing the students' very first website using pure HTML.
 
-The demonstration video is posted below:
-
-[![HTML Demo](http://img.youtube.com/vi/pqDyRw-5ZCA/0.jpg)](http://www.youtube.com/watch?v=pqDyRw-5ZCA "Assignment 1 - Making Webpage using HTML only")
-
-[![HTML Demo style checking](http://img.youtube.com/vi/dKZ-HEPShnw/0.jpg)](http://www.youtube.com/watch?v=dKZ-HEPShnw "Assignment 1 - Error/style checking")
+Demonstration video was provided to enhance the students' understandings.
 
